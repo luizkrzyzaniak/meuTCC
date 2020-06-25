@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="RelAlunosDevedoresDs" targetNamespace="http://tempuri.org/RelAlunosDevedoresDs.xsd" xmlns:mstns="http://tempuri.org/RelAlunosDevedoresDs.xsd" xmlns="http://tempuri.org/RelAlunosDevedoresDs.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="RelAlunosDevedoresDs" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="RelAlunosDevedoresDs" msprop:Generator_UserDSName="RelAlunosDevedoresDs">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dtAlunosDevedores" msprop:Generator_TableClassName="dtAlunosDevedoresDataTable" msprop:Generator_TableVarName="tabledtAlunosDevedores" msprop:Generator_TablePropName="dtAlunosDevedores" msprop:Generator_RowDeletingName="dtAlunosDevedoresRowDeleting" msprop:Generator_RowChangingName="dtAlunosDevedoresRowChanging" msprop:Generator_RowEvHandlerName="dtAlunosDevedoresRowChangeEventHandler" msprop:Generator_RowDeletedName="dtAlunosDevedoresRowDeleted" msprop:Generator_UserTableName="dtAlunosDevedores" msprop:Generator_RowChangedName="dtAlunosDevedoresRowChanged" msprop:Generator_RowEvArgName="dtAlunosDevedoresRowChangeEvent" msprop:Generator_RowClassName="dtAlunosDevedoresRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="alu_ra" msprop:Generator_ColumnVarNameInTable="columnalu_ra" msprop:Generator_ColumnPropNameInRow="alu_ra" msprop:Generator_ColumnPropNameInTable="alu_raColumn" msprop:Generator_UserColumnName="alu_ra" type="xs:int" minOccurs="0" />
+              <xs:element name="alu_nome" msprop:Generator_ColumnVarNameInTable="columnalu_nome" msprop:Generator_ColumnPropNameInRow="alu_nome" msprop:Generator_ColumnPropNameInTable="alu_nomeColumn" msprop:Generator_UserColumnName="alu_nome" type="xs:string" minOccurs="0" />
+              <xs:element name="par_valor" msprop:Generator_ColumnVarNameInTable="columnpar_valor" msprop:Generator_ColumnPropNameInRow="par_valor" msprop:Generator_ColumnPropNameInTable="par_valorColumn" msprop:Generator_UserColumnName="par_valor" type="xs:decimal" minOccurs="0" />
+              <xs:element name="par_dtvenc" msprop:Generator_ColumnVarNameInTable="columnpar_dtvenc" msprop:Generator_ColumnPropNameInRow="par_dtvenc" msprop:Generator_ColumnPropNameInTable="par_dtvencColumn" msprop:Generator_UserColumnName="par_dtvenc" type="xs:dateTime" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

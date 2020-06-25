@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="HorarioAlunoDs" targetNamespace="http://tempuri.org/HorarioAlunoDs.xsd" xmlns:mstns="http://tempuri.org/HorarioAlunoDs.xsd" xmlns="http://tempuri.org/HorarioAlunoDs.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="HorarioAlunoDs" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="HorarioAlunoDs" msprop:Generator_UserDSName="HorarioAlunoDs">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dtHorario" msprop:Generator_TableClassName="dtHorarioDataTable" msprop:Generator_TableVarName="tabledtHorario" msprop:Generator_TablePropName="dtHorario" msprop:Generator_RowDeletingName="dtHorarioRowDeleting" msprop:Generator_RowChangingName="dtHorarioRowChanging" msprop:Generator_RowEvHandlerName="dtHorarioRowChangeEventHandler" msprop:Generator_RowDeletedName="dtHorarioRowDeleted" msprop:Generator_UserTableName="dtHorario" msprop:Generator_RowChangedName="dtHorarioRowChanged" msprop:Generator_RowEvArgName="dtHorarioRowChangeEvent" msprop:Generator_RowClassName="dtHorarioRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="mod_desc" msprop:Generator_ColumnVarNameInTable="columnmod_desc" msprop:Generator_ColumnPropNameInRow="mod_desc" msprop:Generator_ColumnPropNameInTable="mod_descColumn" msprop:Generator_UserColumnName="mod_desc" type="xs:string" minOccurs="0" />
+              <xs:element name="ocm_dtinicio" msprop:Generator_ColumnVarNameInTable="columnocm_dtinicio" msprop:Generator_ColumnPropNameInRow="ocm_dtinicio" msprop:Generator_ColumnPropNameInTable="ocm_dtinicioColumn" msprop:Generator_UserColumnName="ocm_dtinicio" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="ocm_dtfinal" msprop:Generator_ColumnVarNameInTable="columnocm_dtfinal" msprop:Generator_ColumnPropNameInRow="ocm_dtfinal" msprop:Generator_ColumnPropNameInTable="ocm_dtfinalColumn" msprop:Generator_UserColumnName="ocm_dtfinal" type="xs:dateTime" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

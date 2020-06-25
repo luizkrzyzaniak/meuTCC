@@ -1,0 +1,77 @@
+H:\FIPP\Estágio\Template\Hotel\CamadaNegocios\bin\Debug\CamadaNegocios.dll
+H:\FIPP\Estágio\Template\Hotel\CamadaNegocios\bin\Debug\CamadaNegocios.pdb
+H:\FIPP\Estágio\Template\Hotel\CamadaNegocios\obj\Debug\ResolveAssemblyReference.cache
+H:\FIPP\Estágio\Template\Hotel\CamadaNegocios\obj\Debug\CamadaNegocios.dll
+H:\FIPP\Estágio\Template\Hotel\CamadaNegocios\obj\Debug\CamadaNegocios.pdb
+G:\FIPP\Estágio\Template\Hotel\CamadaNegocios\bin\Debug\CamadaNegocios.dll
+G:\FIPP\Estágio\Template\Hotel\CamadaNegocios\bin\Debug\CamadaNegocios.pdb
+G:\FIPP\Estágio\Template\Hotel\CamadaNegocios\obj\Debug\ResolveAssemblyReference.cache
+G:\FIPP\Estágio\Template\Hotel\CamadaNegocios\obj\Debug\CamadaNegocios.dll
+G:\FIPP\Estágio\Template\Hotel\CamadaNegocios\obj\Debug\CamadaNegocios.pdb
+H:\FIPP\Estágio\Template\Hotel\CamadaNegocios\bin\Debug\CamadaDados.dll
+H:\FIPP\Estágio\Template\Hotel\CamadaNegocios\bin\Debug\CamadaDados.pdb
+G:\FIPP\Estágio\Template\Hotel\CamadaNegocios\bin\Debug\CamadaDados.dll
+G:\FIPP\Estágio\Template\Hotel\CamadaNegocios\bin\Debug\CamadaDados.pdb
+G:\FIPP\Estágio\Template\TemplateV1\CamadaNegocios\bin\Debug\CamadaNegocios.dll
+G:\FIPP\Estágio\Template\TemplateV1\CamadaNegocios\bin\Debug\CamadaNegocios.pdb
+G:\FIPP\Estágio\Template\TemplateV1\CamadaNegocios\bin\Debug\CamadaDados.dll
+G:\FIPP\Estágio\Template\TemplateV1\CamadaNegocios\bin\Debug\CamadaDados.pdb
+G:\FIPP\Estágio\Template\TemplateV1\CamadaNegocios\obj\Debug\ResolveAssemblyReference.cache
+G:\FIPP\Estágio\Template\TemplateV1\CamadaNegocios\obj\Debug\CamadaNegocios.dll
+G:\FIPP\Estágio\Template\TemplateV1\CamadaNegocios\obj\Debug\CamadaNegocios.pdb
+H:\FIPP\Estágio\Template\TemplateV2\CamadaNegocios\bin\Debug\CamadaNegocios.dll
+H:\FIPP\Estágio\Template\TemplateV2\CamadaNegocios\bin\Debug\CamadaNegocios.pdb
+H:\FIPP\Estágio\Template\TemplateV2\CamadaNegocios\bin\Debug\CamadaDados.dll
+H:\FIPP\Estágio\Template\TemplateV2\CamadaNegocios\bin\Debug\CamadaDados.pdb
+H:\FIPP\Estágio\Template\TemplateV2\CamadaNegocios\obj\Debug\ResolveAssemblyReference.cache
+H:\FIPP\Estágio\Template\TemplateV2\CamadaNegocios\obj\Debug\CamadaNegocios.dll
+H:\FIPP\Estágio\Template\TemplateV2\CamadaNegocios\obj\Debug\CamadaNegocios.pdb
+I:\FIPP\Estágio\Template\TemplateV2\CamadaNegocios\bin\Debug\CamadaNegocios.dll
+I:\FIPP\Estágio\Template\TemplateV2\CamadaNegocios\bin\Debug\CamadaNegocios.pdb
+I:\FIPP\Estágio\Template\TemplateV2\CamadaNegocios\bin\Debug\CamadaDados.dll
+I:\FIPP\Estágio\Template\TemplateV2\CamadaNegocios\bin\Debug\CamadaDados.pdb
+I:\FIPP\Estágio\Template\TemplateV2\CamadaNegocios\obj\Debug\ResolveAssemblyReference.cache
+I:\FIPP\Estágio\Template\TemplateV2\CamadaNegocios\obj\Debug\CamadaNegocios.dll
+I:\FIPP\Estágio\Template\TemplateV2\CamadaNegocios\obj\Debug\CamadaNegocios.pdb
+G:\FIPP\Estágio\Template\TemplateV2\CamadaNegocios\bin\Debug\CamadaNegocios.dll
+G:\FIPP\Estágio\Template\TemplateV2\CamadaNegocios\bin\Debug\CamadaNegocios.pdb
+G:\FIPP\Estágio\Template\TemplateV2\CamadaNegocios\bin\Debug\CamadaDados.dll
+G:\FIPP\Estágio\Template\TemplateV2\CamadaNegocios\bin\Debug\CamadaDados.pdb
+G:\FIPP\Estágio\Template\TemplateV2\CamadaNegocios\obj\Debug\ResolveAssemblyReference.cache
+G:\FIPP\Estágio\Template\TemplateV2\CamadaNegocios\obj\Debug\CamadaNegocios.dll
+G:\FIPP\Estágio\Template\TemplateV2\CamadaNegocios\obj\Debug\CamadaNegocios.pdb
+I:\pendrive\FIPP\Estágio\2º Semestre 2012\Template\TemplateV2\CamadaNegocios\bin\Debug\CamadaNegocios.dll
+I:\pendrive\FIPP\Estágio\2º Semestre 2012\Template\TemplateV2\CamadaNegocios\bin\Debug\CamadaNegocios.pdb
+I:\pendrive\FIPP\Estágio\2º Semestre 2012\Template\TemplateV2\CamadaNegocios\bin\Debug\CamadaDados.dll
+I:\pendrive\FIPP\Estágio\2º Semestre 2012\Template\TemplateV2\CamadaNegocios\bin\Debug\CamadaDados.pdb
+I:\pendrive\FIPP\Estágio\2º Semestre 2012\Template\TemplateV2\CamadaNegocios\obj\Debug\ResolveAssemblyReference.cache
+I:\pendrive\FIPP\Estágio\2º Semestre 2012\Template\TemplateV2\CamadaNegocios\obj\Debug\CamadaNegocios.dll
+I:\pendrive\FIPP\Estágio\2º Semestre 2012\Template\TemplateV2\CamadaNegocios\obj\Debug\CamadaNegocios.pdb
+H:\pendrive\FIPP\Estágio\2º Semestre 2012\Template\TemplateV2\CamadaNegocios\bin\Debug\CamadaNegocios.dll
+H:\pendrive\FIPP\Estágio\2º Semestre 2012\Template\TemplateV2\CamadaNegocios\bin\Debug\CamadaNegocios.pdb
+H:\pendrive\FIPP\Estágio\2º Semestre 2012\Template\TemplateV2\CamadaNegocios\bin\Debug\CamadaDados.dll
+H:\pendrive\FIPP\Estágio\2º Semestre 2012\Template\TemplateV2\CamadaNegocios\bin\Debug\CamadaDados.pdb
+H:\pendrive\FIPP\Estágio\2º Semestre 2012\Template\TemplateV2\CamadaNegocios\obj\Debug\ResolveAssemblyReference.cache
+H:\pendrive\FIPP\Estágio\2º Semestre 2012\Template\TemplateV2\CamadaNegocios\obj\Debug\CamadaNegocios.dll
+H:\pendrive\FIPP\Estágio\2º Semestre 2012\Template\TemplateV2\CamadaNegocios\obj\Debug\CamadaNegocios.pdb
+C:\Users\Chapolin\Desktop\TCC\TemplateV2\CamadaNegocios\bin\Debug\CamadaNegocios.dll
+C:\Users\Chapolin\Desktop\TCC\TemplateV2\CamadaNegocios\bin\Debug\CamadaNegocios.pdb
+C:\Users\Chapolin\Desktop\TCC\TemplateV2\CamadaNegocios\bin\Debug\CamadaDados.dll
+C:\Users\Chapolin\Desktop\TCC\TemplateV2\CamadaNegocios\bin\Debug\CamadaDados.pdb
+C:\Users\Chapolin\Desktop\TCC\TemplateV2\CamadaNegocios\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Chapolin\Desktop\TCC\TemplateV2\CamadaNegocios\obj\Debug\CamadaNegocios.dll
+C:\Users\Chapolin\Desktop\TCC\TemplateV2\CamadaNegocios\obj\Debug\CamadaNegocios.pdb
+C:\Users\Luiz\Desktop\TCC\SAAET\CamadaNegocios\bin\Debug\CamadaNegocios.dll
+C:\Users\Luiz\Desktop\TCC\SAAET\CamadaNegocios\bin\Debug\CamadaNegocios.pdb
+C:\Users\Luiz\Desktop\TCC\SAAET\CamadaNegocios\bin\Debug\CamadaDados.dll
+C:\Users\Luiz\Desktop\TCC\SAAET\CamadaNegocios\bin\Debug\CamadaDados.pdb
+C:\Users\Luiz\Desktop\TCC\SAAET\CamadaNegocios\obj\Debug\CamadaNegocios.csprojResolveAssemblyReference.cache
+C:\Users\Luiz\Desktop\TCC\SAAET\CamadaNegocios\obj\Debug\CamadaNegocios.dll
+C:\Users\Luiz\Desktop\TCC\SAAET\CamadaNegocios\obj\Debug\CamadaNegocios.pdb
+C:\Users\Chapolin\Desktop\TCC\SAAET\CamadaNegocios\bin\Debug\CamadaNegocios.dll
+C:\Users\Chapolin\Desktop\TCC\SAAET\CamadaNegocios\bin\Debug\CamadaNegocios.pdb
+C:\Users\Chapolin\Desktop\TCC\SAAET\CamadaNegocios\bin\Debug\CamadaDados.dll
+C:\Users\Chapolin\Desktop\TCC\SAAET\CamadaNegocios\bin\Debug\CamadaDados.pdb
+C:\Users\Chapolin\Desktop\TCC\SAAET\CamadaNegocios\obj\Debug\CamadaNegocios.csprojResolveAssemblyReference.cache
+C:\Users\Chapolin\Desktop\TCC\SAAET\CamadaNegocios\obj\Debug\CamadaNegocios.dll
+C:\Users\Chapolin\Desktop\TCC\SAAET\CamadaNegocios\obj\Debug\CamadaNegocios.pdb

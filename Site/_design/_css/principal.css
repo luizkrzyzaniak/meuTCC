@@ -1,0 +1,183 @@
+﻿html, body, #aspnetForm
+{
+    padding-bottom: 0px;
+    margin: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    font-family: Segoe UI Light, Verdana, Tahoma, Arial;
+    font-size: 12px; 
+    height: 100%;
+    padding-top: 0px;
+    
+}
+
+input[type=text], [type=password], select, textarea
+{
+    border-bottom: #D5D8EA 1px solid;
+    border-left: #D5D8EA 1px solid;
+    border-top: #D5D8EA 1px solid;
+    border-right: #D5D8EA 1px solid;
+    padding-bottom: 4px;
+    margin: 0px;
+    padding-left: 4px;
+    padding-right: 4px;
+    font: 13px "Lucida Grande" , Arial, Sans-serif;
+    background: #fff;
+    padding-top: 4px;
+
+}
+
+input[type=submit], [type=button], [type=reset]
+{
+	padding: 2px 6px;
+    border-bottom: 1px solid #888;
+    text-align: center;
+	border-left: #999 1px solid;
+	font-family: arial, tahoma, verdana, helvetica, sans-serif; 
+	font-size: 11px; border-top: #999 1px solid; 
+	cursor: pointer; 
+	font-weight: bold; 
+	border-right: #999 1px solid;
+}
+
+input[type=text][readonly=readonly], type=password][readonly=readonly], select[readonly=readonly], textarea[readonly=readonly]
+{
+    background: #999999;
+}
+
+
+h1
+{
+    font-size: 19px;
+    font-family: Segoe UI Light,Segoe UI,Tahoma,Arial,Verdana,sans-serif;
+    font-weight: normal;
+}  
+
+h3
+{
+    font-size: 15px;
+    font-family: Segoe UI Light,Segoe UI,Tahoma,Arial,Verdana,sans-serif;
+    font-weight: normal;
+} 
+
+#divPrincipal
+{
+    margin:0 auto;
+    width:978px;
+    height:auto;
+    min-height:600px;
+    
+    border-left: #c9c9c9 2px solid;
+    border-right: #c9c9c9 2px solid;
+    border-bottom: #c9c9c9 2px solid;
+}
+
+
+#divTopo
+{
+    margin: 0 auto;
+    width: 978px;
+    height: 94px;
+    background: url('../imgs/Topo.jpg');
+    background-repeat: no-repeat;
+}
+
+#divTopo2
+{
+    border-top: 1px solid #FFF;
+    border-bottom: 1px solid #FFF;
+    border-left: 1px solid #FFF;
+    
+    float:right;
+    margin: 0 auto;
+    width: 300px;
+    height: 20px;
+    background-color:#333333;
+    margin-top:20px;
+    font: 67.5% "Lucida Sans Unicode", "Bitstream Vera Sans", "Trebuchet Unicode MS", "Lucida Grande", Verdana, Helvetica, sans-serif;
+	font-size:13px;
+	font-weight:bold;
+	color:#cccccc;
+	padding:5px;
+    text-align:right;
+}
+
+#divMenu
+{
+    margin:0 auto;
+    width:978px;
+    height:20px;
+}
+
+#divConteudo
+{
+    margin:0 auto;
+    padding:5px;
+    width:968px;    
+    background-color:#FFF;
+    min-height:550px;
+    margin-bottom:50px;
+    line-height:20px;
+    clear:both;
+    
+}
+
+
+#divRodape
+{
+    margin: 0 auto;
+    padding-top: 50px;
+    width: 958px;
+    height: 65px;
+    background-color: #fff;
+    font-size:100%;
+    padding-right:10px;
+    padding-left:10px;
+}
+
+#divRodape a
+{
+    color: #000;    
+}
+
+#divRodape a:link, #divRodape a:visited
+{
+    text-decoration:none;
+}
+
+#divEndereco
+{   
+    float:right; 
+    text-align: right; 
+    width:550px;
+}
+
+#listConteudo
+{
+    list-style-type:none;
+}
+
+#listConteudo li
+{
+    padding:5px;    
+}
+
+.valor
+{
+    font-size:20px;
+    color:red;
+    font-weight:bold;
+}
+
+.info
+{
+    font-size: 18px;
+    font-weight:bold;
+}
+
+
+#imgLogoPagPrinc
+{
+    width: 867px;
+    margin: 100px auto;
+}

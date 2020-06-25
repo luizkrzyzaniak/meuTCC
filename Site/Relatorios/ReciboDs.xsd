@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="ReciboDs" targetNamespace="http://tempuri.org/ReciboDs.xsd" xmlns:mstns="http://tempuri.org/ReciboDs.xsd" xmlns="http://tempuri.org/ReciboDs.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="ReciboDs" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="ReciboDs" msprop:Generator_UserDSName="ReciboDs">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dtRecibo" msprop:Generator_TableClassName="dtReciboDataTable" msprop:Generator_TableVarName="tabledtRecibo" msprop:Generator_TablePropName="dtRecibo" msprop:Generator_RowDeletingName="dtReciboRowDeleting" msprop:Generator_RowChangingName="dtReciboRowChanging" msprop:Generator_RowEvHandlerName="dtReciboRowChangeEventHandler" msprop:Generator_RowDeletedName="dtReciboRowDeleted" msprop:Generator_UserTableName="dtRecibo" msprop:Generator_RowChangedName="dtReciboRowChanged" msprop:Generator_RowEvArgName="dtReciboRowChangeEvent" msprop:Generator_RowClassName="dtReciboRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="par_dtvenc" msprop:Generator_ColumnVarNameInTable="columnpar_dtvenc" msprop:Generator_ColumnPropNameInRow="par_dtvenc" msprop:Generator_ColumnPropNameInTable="par_dtvencColumn" msprop:Generator_UserColumnName="par_dtvenc" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="par_valor" msprop:Generator_ColumnVarNameInTable="columnpar_valor" msprop:Generator_ColumnPropNameInRow="par_valor" msprop:Generator_ColumnPropNameInTable="par_valorColumn" msprop:Generator_UserColumnName="par_valor" type="xs:decimal" minOccurs="0" />
+              <xs:element name="par_dtpag" msprop:Generator_ColumnVarNameInTable="columnpar_dtpag" msprop:Generator_ColumnPropNameInRow="par_dtpag" msprop:Generator_ColumnPropNameInTable="par_dtpagColumn" msprop:Generator_UserColumnName="par_dtpag" type="xs:dateTime" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

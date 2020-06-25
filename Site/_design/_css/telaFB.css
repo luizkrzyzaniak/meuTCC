@@ -1,0 +1,14 @@
+﻿ul
+{
+    list-style-type:none;
+}
+
+li
+{
+    padding:5px;    
+}
+
+#pag 
+{
+    height:500px;
+}

@@ -1,0 +1,50 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MpPrincipal.master.cs"
+    Inherits="Site._design.MpPrincipal" %>
+
+<%@ Register Assembly="AjaxControlToolkit" Namespace="AjaxControlToolkit" TagPrefix="asp" %>
+
+<%@ Register Src="WucMenuPrincipal.ascx" TagName="WucMenuPrincipal" TagPrefix="uc1" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="/_design/_css/principal.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <form id="form1" runat="server">
+    <asp:ToolkitScriptManager ID="ToolkitScriptManager1" runat="server">
+    </asp:ToolkitScriptManager>
+    <div id="divPrincipal">
+        <div id="divTopo">
+            <div id="divTopo2">
+                <asp:HyperLink ID="hlkSair" runat="server" Text="SAAET"></asp:HyperLink>
+            </div>
+        </div>
+        <div id="divMenu">
+            <uc1:WucMenuPrincipal ID="WucMenuPrincipal1" runat="server" />
+        </div>
+        <div id="divConteudo">
+            <asp:ContentPlaceHolder ID="cphConteudo" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+        <div id="divRodape">
+            <div style="float: left; width:350px;">
+                <img src="_design/imgs/logo_unoeste.png" style="margin-right:20px" alt=""/>
+                <img src="_design/imgs/logo_fipp.png"  alt=""/>
+            </div>
+            <div id="divEndereco">
+                <a href="http://www.unoeste.br/fipp" target="_blank">FIPP - Faculdade de Informática de Presidente Prudente</a>
+                <br />
+                Rua José Bongiovani, 700 - CEP 19050-920 - Presidente Prudente SP - Fone (18) 3229-1060
+                <br />
+                © Copyright 1972-2012 Unoeste - Todos os direitos reservados
+            </div>
+        </div>
+    </div>
+    
+    </form>
+
+</body>
+</html>

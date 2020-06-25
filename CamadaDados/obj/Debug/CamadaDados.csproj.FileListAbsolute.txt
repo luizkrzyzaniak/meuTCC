@@ -1,0 +1,54 @@
+H:\FIPP\Estágio\Template\Hotel\CamadaDados\bin\Debug\CamadaDados.dll
+H:\FIPP\Estágio\Template\Hotel\CamadaDados\bin\Debug\CamadaDados.pdb
+H:\FIPP\Estágio\Template\Hotel\CamadaDados\obj\Debug\ResolveAssemblyReference.cache
+H:\FIPP\Estágio\Template\Hotel\CamadaDados\obj\Debug\CamadaDados.dll
+H:\FIPP\Estágio\Template\Hotel\CamadaDados\obj\Debug\CamadaDados.pdb
+G:\FIPP\Estágio\Template\Hotel\CamadaDados\bin\Debug\CamadaDados.dll
+G:\FIPP\Estágio\Template\Hotel\CamadaDados\bin\Debug\CamadaDados.pdb
+G:\FIPP\Estágio\Template\Hotel\CamadaDados\obj\Debug\ResolveAssemblyReference.cache
+G:\FIPP\Estágio\Template\Hotel\CamadaDados\obj\Debug\CamadaDados.dll
+G:\FIPP\Estágio\Template\Hotel\CamadaDados\obj\Debug\CamadaDados.pdb
+G:\FIPP\Estágio\Template\TemplateV1\CamadaDados\bin\Debug\CamadaDados.dll
+G:\FIPP\Estágio\Template\TemplateV1\CamadaDados\bin\Debug\CamadaDados.pdb
+G:\FIPP\Estágio\Template\TemplateV1\CamadaDados\obj\Debug\ResolveAssemblyReference.cache
+G:\FIPP\Estágio\Template\TemplateV1\CamadaDados\obj\Debug\CamadaDados.dll
+G:\FIPP\Estágio\Template\TemplateV1\CamadaDados\obj\Debug\CamadaDados.pdb
+H:\FIPP\Estágio\Template\TemplateV1\CamadaDados\obj\Debug\ResolveAssemblyReference.cache
+H:\FIPP\Estágio\Template\TemplateV1\CamadaDados\obj\Debug\CamadaDados.dll
+H:\FIPP\Estágio\Template\TemplateV1\CamadaDados\bin\Debug\CamadaDados.dll
+H:\FIPP\Estágio\Template\TemplateV1\CamadaDados\bin\Debug\CamadaDados.pdb
+H:\FIPP\Estágio\Template\TemplateV1\CamadaDados\obj\Debug\CamadaDados.pdb
+H:\FIPP\Estágio\Template\TemplateV2\CamadaDados\bin\Debug\CamadaDados.dll
+H:\FIPP\Estágio\Template\TemplateV2\CamadaDados\bin\Debug\CamadaDados.pdb
+H:\FIPP\Estágio\Template\TemplateV2\CamadaDados\obj\Debug\ResolveAssemblyReference.cache
+H:\FIPP\Estágio\Template\TemplateV2\CamadaDados\obj\Debug\CamadaDados.dll
+H:\FIPP\Estágio\Template\TemplateV2\CamadaDados\obj\Debug\CamadaDados.pdb
+I:\FIPP\Estágio\Template\TemplateV2\CamadaDados\bin\Debug\CamadaDados.dll
+I:\FIPP\Estágio\Template\TemplateV2\CamadaDados\bin\Debug\CamadaDados.pdb
+I:\FIPP\Estágio\Template\TemplateV2\CamadaDados\obj\Debug\ResolveAssemblyReference.cache
+I:\FIPP\Estágio\Template\TemplateV2\CamadaDados\obj\Debug\CamadaDados.dll
+I:\FIPP\Estágio\Template\TemplateV2\CamadaDados\obj\Debug\CamadaDados.pdb
+G:\FIPP\Estágio\Template\TemplateV2\CamadaDados\bin\Debug\CamadaDados.dll
+G:\FIPP\Estágio\Template\TemplateV2\CamadaDados\bin\Debug\CamadaDados.pdb
+G:\FIPP\Estágio\Template\TemplateV2\CamadaDados\obj\Debug\ResolveAssemblyReference.cache
+G:\FIPP\Estágio\Template\TemplateV2\CamadaDados\obj\Debug\CamadaDados.dll
+G:\FIPP\Estágio\Template\TemplateV2\CamadaDados\obj\Debug\CamadaDados.pdb
+I:\pendrive\FIPP\Estágio\2º Semestre 2012\Template\TemplateV2\CamadaDados\bin\Debug\CamadaDados.dll
+I:\pendrive\FIPP\Estágio\2º Semestre 2012\Template\TemplateV2\CamadaDados\bin\Debug\CamadaDados.pdb
+I:\pendrive\FIPP\Estágio\2º Semestre 2012\Template\TemplateV2\CamadaDados\obj\Debug\ResolveAssemblyReference.cache
+I:\pendrive\FIPP\Estágio\2º Semestre 2012\Template\TemplateV2\CamadaDados\obj\Debug\CamadaDados.dll
+I:\pendrive\FIPP\Estágio\2º Semestre 2012\Template\TemplateV2\CamadaDados\obj\Debug\CamadaDados.pdb
+H:\pendrive\FIPP\Estágio\2º Semestre 2012\Template\TemplateV2\CamadaDados\bin\Debug\CamadaDados.dll
+H:\pendrive\FIPP\Estágio\2º Semestre 2012\Template\TemplateV2\CamadaDados\bin\Debug\CamadaDados.pdb
+H:\pendrive\FIPP\Estágio\2º Semestre 2012\Template\TemplateV2\CamadaDados\obj\Debug\ResolveAssemblyReference.cache
+H:\pendrive\FIPP\Estágio\2º Semestre 2012\Template\TemplateV2\CamadaDados\obj\Debug\CamadaDados.dll
+H:\pendrive\FIPP\Estágio\2º Semestre 2012\Template\TemplateV2\CamadaDados\obj\Debug\CamadaDados.pdb
+C:\Users\Luiz\Desktop\TCC\SAAET\CamadaDados\bin\Debug\CamadaDados.dll
+C:\Users\Luiz\Desktop\TCC\SAAET\CamadaDados\bin\Debug\CamadaDados.pdb
+C:\Users\Luiz\Desktop\TCC\SAAET\CamadaDados\obj\Debug\CamadaDados.dll
+C:\Users\Luiz\Desktop\TCC\SAAET\CamadaDados\obj\Debug\CamadaDados.pdb
+C:\Users\Luiz\Desktop\TCC\SAAET\CamadaDados\obj\Debug\CamadaDados.csprojResolveAssemblyReference.cache
+C:\Users\Chapolin\Desktop\TCC\SAAET\CamadaDados\bin\Debug\CamadaDados.dll
+C:\Users\Chapolin\Desktop\TCC\SAAET\CamadaDados\bin\Debug\CamadaDados.pdb
+C:\Users\Chapolin\Desktop\TCC\SAAET\CamadaDados\obj\Debug\CamadaDados.dll
+C:\Users\Chapolin\Desktop\TCC\SAAET\CamadaDados\obj\Debug\CamadaDados.pdb
